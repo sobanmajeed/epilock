@@ -1,1 +1,14 @@
-
+body{
+  background-image:url("epilock.png");
+  background-position: center;
+  background-size: auto;
+  background-color: black;
+  background-repeat: no-repeat;
+}
+p{color: aliceblue;}
+h2{
+  color: orange;
+}
+h5{
+  color: yellow;
+}
