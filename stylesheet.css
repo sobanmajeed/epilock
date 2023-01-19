@@ -1,14 +1,20 @@
-body{
-  background-image:url("epilock.png");
-  background-position: center;
-  background-size: auto;
-  background-color: black;
-  background-repeat: no-repeat;
+
+body{text-align: center;
 }
-p{color: aliceblue;}
+p{color:rgb(0, 0, 0);
+line-height: 5px;}
 h2{
   color: orange;
+  line-height: 5px;
 }
-h5{
-  color: yellow;
+h1 {
+  color: rgb(245, 37, 37);
 }
+.logo{
+  text-align: center;
+  height: auto;
+  width: auto;
+  
+
+}
+ 
